@@ -1,4 +1,4 @@
 # mobileApp_Engineer
-Android application design class.
+Mobile apps for Engineers, Rutgers University, Fall 2018
 
-Rutgers Android software design class. This repo includes all projects given in class except for the final project. Mobile apps for Engineers Fall 2018
+Android application software design class. This repo includes all projects given in class except for the final project.
